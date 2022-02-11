@@ -10,7 +10,7 @@ enum rotation_direction {
   }
 
 
-  //% color="#794044" weight=10 icon="\uf108" block="8X8点阵屏"
+//% color="#794044" weight=10 icon="\uf108" block="8X8点阵屏"
 //% category="MAX7219点阵屏"
 namespace max7219{     
     /**
